@@ -7,6 +7,7 @@ package bracr10.sistemagestionbiblioteca;
 /**
  *
  * @author Brian Ramirez
+ * @author David Chavez
  */
 public class SistemaGestionBiblioteca {
 
